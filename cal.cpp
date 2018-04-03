@@ -9,7 +9,7 @@ class Calculate
 		c=a+b
 		cout<<c
 	}
-		void multiply(); //expand this please    
+		void multiply(); //expand 
 } o;
 int main()
 {
