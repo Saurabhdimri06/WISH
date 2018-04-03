@@ -4,8 +4,12 @@ class Calculate
 {
 	int a,b,c,d;
 	public :
-		void sum();			//Expand these two
-		void multiply();		
+		void sum();
+	{
+		c=a+b
+		cout<<c
+	}
+		void multiply(); //expand this please
 } o;
 int main()
 {
